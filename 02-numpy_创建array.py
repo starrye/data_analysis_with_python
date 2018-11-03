@@ -21,3 +21,6 @@ print(array)
 #生成1到12的矩阵 reshape((x,y)) 生成x行y列的矩阵
 array = np.arange(1,13).reshape((3,4))
 print(array)
+
+
+print(array.reshape(-1,2))# reshape(-1,x) 表示行由列决定 如果有矩阵3行4列 x是12 那就是一行 x是6 那就是两行
