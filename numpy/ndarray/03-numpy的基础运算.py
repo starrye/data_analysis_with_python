@@ -10,7 +10,8 @@ print(a/b)
 print(b**2)
 print(b==2) # 返回布尔值
 
-#矩阵的运算
+print('----------------')
+# 矩阵的运算
 a = np.array([[1,2],[2,1]])
 b = np.arange(4).reshape(2,2)
 print(a)
@@ -18,7 +19,9 @@ print(b)
 print(a*b) #单纯的对应位置数字相乘
 print(np.dot(a,b)) #矩阵的乘法 行×列
 print(a.dot(b))# 也是矩阵的乘法 与上面那个一样
+print(a.dot(a.T))# 内积
 
+print('------------------')
 #产生随机的array
 a = np.random.random((2,4))
 print(a)

@@ -9,3 +9,5 @@ print('number of dim:',array.ndim)
 print('size:',array.size)
 #查看数组行数 列数 返回（）
 print('shape:',array.shape)
+# 内容类型
+print('shape:',array.dtype)
