@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_ as np
 
 # 创建array时定义类型
 array = np.array([1,2,3],dtype=int)

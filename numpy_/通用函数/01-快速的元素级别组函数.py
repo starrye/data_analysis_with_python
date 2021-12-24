@@ -6,7 +6,7 @@
 @time: 2021/12/22 5:35 下午
 @desc: 
 """
-import numpy as np
+import numpy_ as np
 
 arr = np.arange(10, dtype=float)
 

@@ -1,3 +1,11 @@
+# encoding: utf-8
+"""
+@Project ： 
+@File: 数学和统计方法.py
+@Author: liuwz
+@time: 2021/12/24 3:47 下午
+@desc: 
+"""
 import numpy as np
 
 a = np.arange(1, 13).reshape((3, 4))

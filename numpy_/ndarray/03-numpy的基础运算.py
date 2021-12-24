@@ -1,4 +1,4 @@
-import numpy as np
+import numpy_ as np
 
 a = np.array([5,7,9,11])
 b = np.arange(1,5)

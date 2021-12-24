@@ -6,7 +6,7 @@
 @time: 2021/12/23 5:01 下午
 @desc: 
 """
-import numpy as np
+import numpy_ as np
 import matplotlib.pyplot as plt
 
 points = np.arange(-5, 5, 0.01)
