@@ -1,4 +1,4 @@
-import numpy_ as np
+import numpy as np
 
 a = np.arange(3, 15).reshape((3, 4))
 print(a[0])  # 打印第0行
