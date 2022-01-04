@@ -16,8 +16,10 @@ df2 = pd.DataFrame(np.arange(20.).reshape((4, 5)), columns=list('abcde'))
 df3 = df1 + df2
 print(df3)
 
-# add方法 fill_value原理？
+# add方法 fill_value 先填充再进行add  ！！
 df4 = df1.add(df2, fill_value=0)
-print(df4)
 
+print(df1)
+df5 = df1.reindex(columns=df2.columns, fill_value=0)
+print(df5)
 
