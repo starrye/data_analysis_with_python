@@ -43,7 +43,9 @@ df7 = pd.read_csv("../../examples/ex5.csv")
 print(df7)
 print(pd.isna(df7))
 
-df8 = pd.read_csv("../../examples/ex5.csv", na_values=["NULL"])
+"""na_values 指定列替换成NaN"""
+sentinels = {'message': ['foo'], 'something': ['two', 'three']}
+df8 = pd.read_csv("../../examples/ex5.csv", na_values=sentinels)
 print(df8)
 
 
