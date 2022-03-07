@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43d7ffe7-7f89-4c45-863e-b671c7365a6c" name="默认变更列表" comment="change dir number" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22ltShxpnb8bfhbjHux0KELAoxq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="grid.search.filter.rows" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/数据清洗和准备/2数据转换" />
+      <recent name="$PROJECT_DIR$/panda/汇总和计算描述统计" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.2.柱状图">
+    <configuration name="唯一值、值计数以及成员资格" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/panda/汇总和计算描述统计" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/panda/汇总和计算描述统计/唯一值、值计数以及成员资格.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.线型图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/绘图和可视化/2.使用pandas和seaborn绘图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/绘图和可视化/2.使用pandas和seaborn绘图/1.线型图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.柱状图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/绘图和可视化/2.使用pandas和seaborn绘图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/绘图和可视化/2.使用pandas和seaborn绘图/2.柱状图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7.注解以及在Subplot上绘图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门/7.注解以及在Subplot上绘图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8.将图表保存到文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门/8.将图表保存到文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9.matplotlib配置" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门/9.matplotlib配置.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="基础方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据加载、存储与文件格式/读写文本格式的数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据加载、存储与文件格式/读写文本格式的数据/基础方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="索引、选取和过滤" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/panda/基本功能" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/panda/基本功能/索引、选取和过滤.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="数学和统计方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analysis_with_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_/利用数组进行数据处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_/利用数组进行数据处理/数学和统计方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2.柱状图" />
+        <item itemvalue="Python.1.线型图" />
+        <item itemvalue="Python.9.matplotlib配置" />
+        <item itemvalue="Python.8.将图表保存到文件" />
+        <item itemvalue="Python.7.注解以及在Subplot上绘图" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="43d7ffe7-7f89-4c45-863e-b671c7365a6c" name="默认变更列表" comment="" />
+      <created>1640424002602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640424002602</updated>
+      <workItem from="1640424004322" duration="50000" />
+      <workItem from="1640424068156" duration="84000" />
+      <workItem from="1640424477154" duration="6542000" />
+      <workItem from="1640436778707" duration="598000" />
+      <workItem from="1640440236394" duration="19133000" />
+      <workItem from="1641196723738" duration="102000" />
+      <workItem from="1641200147156" duration="7426000" />
+      <workItem from="1641311160634" duration="218000" />
+      <workItem from="1641311390113" duration="597000" />
+      <workItem from="1641395821903" duration="2157000" />
+      <workItem from="1641482393403" duration="16000" />
+      <workItem from="1641652800044" duration="217000" />
+      <workItem from="1641653038126" duration="38000" />
+      <workItem from="1641653087046" duration="9000" />
+      <workItem from="1641653106694" duration="18000" />
+      <workItem from="1641653135273" duration="13127000" />
+      <workItem from="1641861228418" duration="235000" />
+      <workItem from="1641914844837" duration="2113000" />
+      <workItem from="1642000778340" duration="2708000" />
+      <workItem from="1642087148625" duration="2775000" />
+      <workItem from="1642318908443" duration="5240000" />
+      <workItem from="1642341174934" duration="598000" />
+      <workItem from="1642431714714" duration="1851000" />
+      <workItem from="1642519334667" duration="1221000" />
+      <workItem from="1642520601023" duration="767000" />
+      <workItem from="1642691209769" duration="2022000" />
+      <workItem from="1642838634413" duration="4037000" />
+      <workItem from="1642943123100" duration="598000" />
+      <workItem from="1642950945680" duration="1171000" />
+      <workItem from="1643037491321" duration="2509000" />
+      <workItem from="1644505452122" duration="41000" />
+      <workItem from="1644505516228" duration="20000" />
+      <workItem from="1644505552915" duration="53000" />
+      <workItem from="1644505620093" duration="82000" />
+      <workItem from="1644506098387" duration="42000" />
+      <workItem from="1644506154532" duration="119000" />
+      <workItem from="1644506482631" duration="57000" />
+      <workItem from="1644506684328" duration="34000" />
+      <workItem from="1644506730318" duration="75000" />
+      <workItem from="1644506817125" duration="25000" />
+      <workItem from="1644506941545" duration="85000" />
+      <workItem from="1644507041946" duration="434000" />
+      <workItem from="1644507525188" duration="98000" />
+      <workItem from="1644507636684" duration="13000" />
+      <workItem from="1644508040679" duration="9000" />
+      <workItem from="1644508066940" duration="25903000" />
+    </task>
+    <task id="LOCAL-00001" summary="4.3-4.8">
+      <created>1640506535189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640506535189</updated>
+    </task>
+    <task id="LOCAL-00002" summary="555.1">
+      <created>1640514945976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640514945976</updated>
+    </task>
+    <task id="LOCAL-00003" summary="5.2">
+      <created>1641208014447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641208014447</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5.2 end">
+      <created>1641311978235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641311978235</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5.3">
+      <created>1641398459914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641398459914</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5.3 end">
+      <created>1641719811407</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641719811407</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6.1">
+      <created>1641861342647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641861342647</updated>
+    </task>
+    <task id="LOCAL-00008" summary="6.1">
+      <created>1641861451268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641861451268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="6.1">
+      <created>1641916953367</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641916953367</updated>
+    </task>
+    <task id="LOCAL-00010" summary="6.1-6.2">
+      <created>1642003480973</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642003480973</updated>
+    </task>
+    <task id="LOCAL-00011" summary="6.2">
+      <created>1642089915871</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642089915871</updated>
+    </task>
+    <task id="LOCAL-00012" summary="6.3-end">
+      <created>1642329981960</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642329981960</updated>
+    </task>
+    <task id="LOCAL-00013" summary="7.1-7.2">
+      <created>1642333232500</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642333232500</updated>
+    </task>
+    <task id="LOCAL-00014" summary="7.2">
+      <created>1642434874206</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642434874206</updated>
+    </task>
+    <task id="LOCAL-00015" summary="7.2">
+      <created>1642952110303</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642952110303</updated>
+    </task>
+    <task id="LOCAL-00016" summary="9.1-9.2">
+      <created>1646561474047</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1646561474048</updated>
+    </task>
+    <task id="LOCAL-00017" summary="9.1-9.2">
+      <created>1646561552161</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1646561552161</updated>
+    </task>
+    <task id="LOCAL-00018" summary="change dir number">
+      <created>1646561693421</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1646561693421</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/panda/汇总和计算描述统计/pandas-datareader" />
+      <path value="$PROJECT_DIR$/pandas-datareader" />
+    </ignored-roots>
+    <MESSAGE value="4.3-4.8" />
+    <MESSAGE value="555.1" />
+    <MESSAGE value="5.2" />
+    <MESSAGE value="5.2 end" />
+    <MESSAGE value="5.3" />
+    <MESSAGE value="5.3 end" />
+    <MESSAGE value="6.1" />
+    <MESSAGE value="6.1-6.2" />
+    <MESSAGE value="6.2" />
+    <MESSAGE value="6.3-end" />
+    <MESSAGE value="7.1-7.2" />
+    <MESSAGE value="7.2" />
+    <MESSAGE value="9.1-9.2" />
+    <MESSAGE value="change dir number" />
+    <option name="LAST_COMMIT_MESSAGE" value="change dir number" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.conda/envs/data_analysis_with_python3/lib/python3.9/site-packages/pandas/plotting/_core.py</url>
+          <line>1265</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$main.coverage" NAME="main 覆盖结果" MODIFIED="1644333777456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$7_lxml_objectifyXML.coverage" NAME="7.利用lxml.objectify解析XML 覆盖结果" MODIFIED="1642002039470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据加载、存储与文件格式/读写文本格式的数据" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$7_Subplot.coverage" NAME="7.注解以及在Subplot上绘图 覆盖结果" MODIFIED="1646555806680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$6_.coverage" NAME="6.添加图例 覆盖结果" MODIFIED="1646554310301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$main__2_.coverage" NAME="main (2) 覆盖结果" MODIFIED="1642330683456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据清洗和准备/1处理缺失数据" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$test.coverage" NAME="test 覆盖结果" MODIFIED="1642692062158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$2_.coverage" NAME="2.柱状图 覆盖结果" MODIFIED="1646561295952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/2.使用pandas和seaborn绘图" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$loc_iloc.coverage" NAME="loc&amp;iloc 覆盖结果" MODIFIED="1641207124948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/panda/基本功能" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$8_.coverage" NAME="8.将图表保存到文件 覆盖结果" MODIFIED="1646555850418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$3_subplot.coverage" NAME="3.调整subplot周围的间距 覆盖结果" MODIFIED="1645370694990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$5_.coverage" NAME="5.设置标题、轴标签、刻度以及刻度标签 覆盖结果" MODIFIED="1645933591983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$9_matplotlib.coverage" NAME="9.matplotlib配置 覆盖结果" MODIFIED="1646557458816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$2_FigureSubplot.coverage" NAME="2.Figure和Subplot 覆盖结果" MODIFIED="1645369140085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1642329937877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据加载、存储与文件格式/4数据库交互" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python$01_numpy.coverage" NAME="01-numpy属性 覆盖结果" MODIFIED="1640424151529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy_/ndarray" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$11_.coverage" NAME="11.带有重复标签的轴索引 覆盖结果" MODIFIED="1641311855864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/panda/基本功能" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$3_.coverage" NAME="3.替换值 覆盖结果" MODIFIED="1642333143440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据清洗和准备/2数据转换" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$main__3_.coverage" NAME="main (3) 覆盖结果" MODIFIED="1640506473691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy_/随机漫步" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$1_.coverage" NAME="1.线型图 覆盖结果" MODIFIED="1646558997995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/2.使用pandas和seaborn绘图" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$3_Microsoft_Excel.coverage" NAME="3.读取Microsoft Excel文件 覆盖结果" MODIFIED="1642089900855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据加载、存储与文件格式/2二进制数据格式" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$7_.coverage" NAME="7.排列和随机采样 覆盖结果" MODIFIED="1642905506954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据清洗和准备/2数据转换" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$6_XMLHTMLWeb.coverage" NAME="6.XML和HTML：Web信息收集 覆盖结果" MODIFIED="1642001685676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据加载、存储与文件格式/读写文本格式的数据" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$2_HDF5.coverage" NAME="2.使用HDF5格式 覆盖结果" MODIFIED="1642088841613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据加载、存储与文件格式/2二进制数据格式" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$DataFrame.coverage" NAME="DataFrame 覆盖结果" MODIFIED="1641200798332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/panda/数据结构介绍" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$Series.coverage" NAME="Series 覆盖结果" MODIFIED="1640509784918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/panda/数据结构介绍" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$4_.coverage" NAME="4.颜色、标记和线型 覆盖结果" MODIFIED="1645932096574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$.coverage" NAME="哑变量 覆盖结果" MODIFIED="1642951690526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据清洗和准备/2数据转换/8.计算指标" />
+  </component>
+</project>
