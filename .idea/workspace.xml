@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43d7ffe7-7f89-4c45-863e-b671c7365a6c" name="默认变更列表" comment="change dir number" />
+    <list default="true" id="43d7ffe7-7f89-4c45-863e-b671c7365a6c" name="默认变更列表" comment="change dir number">
+      <change afterPath="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图/3.直方图和密度图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图/4.散步图或点图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图/5.分面网格和分类数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,29 +53,7 @@
       <recent name="$PROJECT_DIR$/panda/汇总和计算描述统计" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2.柱状图">
-    <configuration name="唯一值、值计数以及成员资格" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="data_analysis_with_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/panda/汇总和计算描述统计" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/panda/汇总和计算描述统计/唯一值、值计数以及成员资格.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.5.分面网格和分类数据">
     <configuration name="1.线型图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_analysis_with_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7.注解以及在Subplot上绘图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.直方图和密度图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_analysis_with_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +106,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门/7.注解以及在Subplot上绘图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图/3.直方图和密度图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8.将图表保存到文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.散步图或点图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_analysis_with_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +128,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门/8.将图表保存到文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图/4.散步图或点图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.matplotlib配置" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.分面网格和分类数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_analysis_with_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门/9.matplotlib配置.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图/5.分面网格和分类数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5.分面网格和分类数据" />
+        <item itemvalue="Python.4.散步图或点图" />
+        <item itemvalue="Python.3.直方图和密度图" />
         <item itemvalue="Python.2.柱状图" />
         <item itemvalue="Python.1.线型图" />
-        <item itemvalue="Python.9.matplotlib配置" />
-        <item itemvalue="Python.8.将图表保存到文件" />
-        <item itemvalue="Python.7.注解以及在Subplot上绘图" />
       </list>
     </recent_temporary>
   </component>
@@ -311,6 +294,7 @@
       <workItem from="1644507636684" duration="13000" />
       <workItem from="1644508040679" duration="9000" />
       <workItem from="1644508066940" duration="25903000" />
+      <workItem from="1646668405510" duration="6593000" />
     </task>
     <task id="LOCAL-00001" summary="4.3-4.8">
       <created>1640506535189</created>
@@ -438,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646561693421</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="change dir number">
+      <created>1646668423381</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1646668423381</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,13 +490,13 @@
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$loc_iloc.coverage" NAME="loc&amp;iloc 覆盖结果" MODIFIED="1641207124948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/panda/基本功能" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$8_.coverage" NAME="8.将图表保存到文件 覆盖结果" MODIFIED="1646555850418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$3_subplot.coverage" NAME="3.调整subplot周围的间距 覆盖结果" MODIFIED="1645370694990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
-    <SUITE FILE_PATH="coverage/data_analysis_with_python3$5_.coverage" NAME="5.设置标题、轴标签、刻度以及刻度标签 覆盖结果" MODIFIED="1645933591983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$5_.coverage" NAME="5.分面网格和分类数据 覆盖结果" MODIFIED="1647159851305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$9_matplotlib.coverage" NAME="9.matplotlib配置 覆盖结果" MODIFIED="1646557458816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$2_FigureSubplot.coverage" NAME="2.Figure和Subplot 覆盖结果" MODIFIED="1645369140085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1642329937877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据加载、存储与文件格式/4数据库交互" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python$01_numpy.coverage" NAME="01-numpy属性 覆盖结果" MODIFIED="1640424151529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy_/ndarray" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$11_.coverage" NAME="11.带有重复标签的轴索引 覆盖结果" MODIFIED="1641311855864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/panda/基本功能" />
-    <SUITE FILE_PATH="coverage/data_analysis_with_python3$3_.coverage" NAME="3.替换值 覆盖结果" MODIFIED="1642333143440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据清洗和准备/2数据转换" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$3_.coverage" NAME="3.直方图和密度图 覆盖结果" MODIFIED="1647158278301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$main__3_.coverage" NAME="main (3) 覆盖结果" MODIFIED="1640506473691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy_/随机漫步" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$1_.coverage" NAME="1.线型图 覆盖结果" MODIFIED="1646558997995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/2.使用pandas和seaborn绘图" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$3_Microsoft_Excel.coverage" NAME="3.读取Microsoft Excel文件 覆盖结果" MODIFIED="1642089900855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据加载、存储与文件格式/2二进制数据格式" />
@@ -514,7 +505,7 @@
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$2_HDF5.coverage" NAME="2.使用HDF5格式 覆盖结果" MODIFIED="1642088841613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据加载、存储与文件格式/2二进制数据格式" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$DataFrame.coverage" NAME="DataFrame 覆盖结果" MODIFIED="1641200798332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/panda/数据结构介绍" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$Series.coverage" NAME="Series 覆盖结果" MODIFIED="1640509784918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/panda/数据结构介绍" />
-    <SUITE FILE_PATH="coverage/data_analysis_with_python3$4_.coverage" NAME="4.颜色、标记和线型 覆盖结果" MODIFIED="1645932096574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/绘图和可视化/1matplotlib API入门" />
+    <SUITE FILE_PATH="coverage/data_analysis_with_python3$4_.coverage" NAME="4.散步图或点图 覆盖结果" MODIFIED="1647159008289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9.绘图和可视化/2.使用pandas和seaborn绘图" />
     <SUITE FILE_PATH="coverage/data_analysis_with_python3$.coverage" NAME="哑变量 覆盖结果" MODIFIED="1642951690526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据清洗和准备/2数据转换/8.计算指标" />
   </component>
 </project>
