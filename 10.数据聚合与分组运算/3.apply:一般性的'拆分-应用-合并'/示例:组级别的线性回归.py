@@ -19,4 +19,3 @@ def regress(data, yvar, xvars):
     X['intercept'] = 1.
     result = sm.OLS(Y, X).fit()
     return result.params
-
